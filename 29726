@@ -1,0 +1,18 @@
+#!/bin/bash
+# Bu Arayüz Tamamen Bürküt Tarafın'dan Kodlanmıştır!
+PROJECT_NAME= bürküt.sh
+PROJECT_CREATER= $name
+name= Bürküt
+instagram= İnstagram: @burkut.sh
+
+echo 
+"Herkese Merhaba Ben $name
+
+$instgram
+
+Güncel Siber Güvenlik
+Yazılımlarını Bir Araya Topladım"
+
+
+
+ 
